@@ -1,0 +1,23 @@
+https://23.88.39.99:2087/pma/index.php?route=/table/sql&db=mybizz_gmserp&table=gms_bookings
+
+https://23.88.39.99:2083
+Username: mybizz
+Password: BIZZpass100*
+
+
+https://mybizz.biz/gmserp/index.php
+
+Username: gmsPE18
+Password: 123456
+
+DB:mybizz_gmserp
+
+
+/public_html/gmserp
+/public_html/gmserp/inc
+/public_html/gmserp/inc/cisajax
+/public_html/gmserp/inc/datatable
+
+SELECT * FROM `gms_bookings` WHERE book_cnno='777777777';
+SELECT * FROM `gms_bookings` WHERE book_cnno='888888888';
+SELECT * FROM `gms_bookings` WHERE book_cnno='999999999';
